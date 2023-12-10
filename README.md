@@ -5,11 +5,8 @@
 
 <p align="center"> <a href="https://twitter.com/ravindu1142403" target="blank"><img src="https://img.shields.io/twitter/follow/ravindu1142403?logo=twitter&style=for-the-badge" alt="ravindu1142403" /></a> </p>
 
-- <p align="center"> I’m currently working on **My Degree 🧑🏻‍🎓**
-
--  I’m currently learning **Androide Studios, Kotlin, MernStack**
-
--  You can reach me by **sathsara360@gmail.com**
+<p align="center>Nice to meet ya all, I'm Ravnidu. I'm a student and currently working on my deree<br> and I'm got to learn about Android studios, Kotlin and MernStack in my new Semester<br>
+If you want to reach me drop me an mail to sathsara360@gmail.com</p>
 
    **C O D E M O R E 💻**</p>
 
