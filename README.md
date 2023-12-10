@@ -7,11 +7,11 @@
 
 -  I’m currently working on **My Degree 🧑🏻‍🎓**
 
--  I’m currently learning **Fundamentals of Computing Filed(programming, networking, other study stuff)**
+-  I’m currently learning **Androide Studios, Kotlin, MernStack**
 
 -  How to reach me **sathsara360@gmail.com**
 
-   **Coding is fun, until compiler comlaning about bugs🐞**
+   **Coding is fun, until compiler complaning about bugs🐞**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
