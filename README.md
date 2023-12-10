@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://twitter.com/ravindu1142403" target="blank"><img src="https://img.shields.io/twitter/follow/ravindu1142403?logo=twitter&style=for-the-badge" alt="ravindu1142403" /></a> </p>
 
-<hr>
+<hr><br>
 
 <p align="center">Nice to meet ya all! I'm a student and currently working on my deree<br> and I'm goiing to work with Android studios, Kotlin and MernStack in my next Semester<br>
 If you want to reach me drop me an mail to sathsara360@gmail.com</p>
