@@ -5,13 +5,13 @@
 
 <p align="center"> <a href="https://twitter.com/ravindu1142403" target="blank"><img src="https://img.shields.io/twitter/follow/ravindu1142403?logo=twitter&style=for-the-badge" alt="ravindu1142403" /></a> </p>
 
--  I’m currently working on **My Degree 🧑🏻‍🎓**
+- <p align="center"> I’m currently working on **My Degree 🧑🏻‍🎓**
 
 -  I’m currently learning **Androide Studios, Kotlin, MernStack**
 
--  You can reach me by**sathsara360@gmail.com**
+-  You can reach me by **sathsara360@gmail.com**
 
-   **C O D E M O R E 💻**
+   **C O D E M O R E 💻**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
