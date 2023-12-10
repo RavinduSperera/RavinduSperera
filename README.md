@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ravindu Perera</h1>
 <h3 align="center">Undergraduate @SLIIT | Bsc.Hons in IT(Software Engineering)</h3>
-
+---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravinduperera&label=Profile%20views&color=0e75b6&style=flat" alt="ravinduperera" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ravindu1142403" target="blank"><img src="https://img.shields.io/twitter/follow/ravindu1142403?logo=twitter&style=for-the-badge" alt="ravindu1142403" /></a> </p>
----
+
 - 🔭 I’m currently working on **My Degree 🧑🏻‍🎓**
 
 - 🌱 I’m currently learning **Fundamentals of Computing Filed(programming, networking, other study stuff)**
