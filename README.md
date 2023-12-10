@@ -11,7 +11,7 @@
 If you want to reach me drop me an mail to sathsara360@gmail.com</p>
 
    <p align="center"><b>C O D E M O R E 💻</b></p><br>
-   <hr width="5">
+   <hr height="5">
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
