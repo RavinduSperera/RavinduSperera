@@ -7,7 +7,7 @@
 
 <hr><br>
 
-<p align="center">Nice to meet ya all:) I'm a student and currently working on my deree<br> and I'm goiing to work with Android studios, Kotlin and MernStack in my next Semester<br>
+<p align="center">Nice to meet ya all :) I'm a student and currently working on my deree<br> and I'm goiing to work with Android studios, Kotlin and MernStack in my next Semester<br>
 If you want to reach me drop me an mail to sathsara360@gmail.com</p>
 
    <p align="center"><b>C O D E M O R E 💻</b></p><br>
