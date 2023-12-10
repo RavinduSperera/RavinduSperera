@@ -9,9 +9,9 @@
 
 -  I’m currently learning **Androide Studios, Kotlin, MernStack**
 
--  How to reach me **sathsara360@gmail.com**
+-  You can reach me by**sathsara360@gmail.com**
 
-   **Coding is fun, until compiler complaning about bugs🐞**
+   **C O D E M O R E 💻**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
