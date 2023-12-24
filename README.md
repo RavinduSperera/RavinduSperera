@@ -7,8 +7,8 @@
 
 <hr><br>
 
-<p align="center">Nice to meet ya all! I'm a student and currently working on my degree.<br> I'm going to learn about Android studios, Kotlin, and MernStack in my next Semester.<br>
-If you want to reach me drop me an mail to sathsara360@gmail.com</p>
+<p align="center">Nice to meet you all! I'm a student and am currently working on my degree. <br>
+If you want to reach me, drop me an email at sathsara360@gmail.com.</p>
 
    <p align="center"><b>C O D E M O R E 💻</b></p><br>
    <hr height="5">
